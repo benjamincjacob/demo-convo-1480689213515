@@ -13,7 +13,7 @@ applications:
    - conversation-service
    - weatherinsights-service
    - cloudantNoSQLDB-service
-  name: text-bot
+  name: demo-chat
   command: npm start
   path: .
   memory: 512M
